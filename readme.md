@@ -154,3 +154,7 @@ iii. stopPropagation() Example :
         console.log("Parent");
       });
     </script>
+
+
+
+    <!-- All Probleam Solve and Solution Given  -->
